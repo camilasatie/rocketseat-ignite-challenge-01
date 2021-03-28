@@ -1,5 +1,5 @@
 # Ignite's Challenge #1 - React's Concepts
-<img src="https://github.com/camilasatie/rocketseat-ignite-challenge-01/.github/todo.png" alt="Project image" />
+<img src="https://github.com/camilasatie/rocketseat-ignite-challenge-01/blob/main/.github/todo.png" alt="Project image" />
 
 For this challenge, the main goal is to do finish the application completing the functionalities as add a new todo, mark a completed todo and remove a todo.
 
