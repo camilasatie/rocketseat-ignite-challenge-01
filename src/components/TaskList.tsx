@@ -33,14 +33,14 @@ export function TaskList() {
       if(task.id === id) task.isComplete = !task.isComplete;
 
       return task
-    })
+    });
 
     setTasks(toggleTasks)
   }
 
   function handleRemoveTask(id: string) {
     const filteredTasks = tasks.filter(task => task.id !== id);
-    
+
     setTasks(filteredTasks);
   }
 
